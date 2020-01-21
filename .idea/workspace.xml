@@ -1,202 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a37b30bd-848a-4b3a-bdfa-522d1aa621f8" name="Default Changelist" comment="Finished code with commenting">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/YuanGeometryWar.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BackgroundMusic.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ControlBack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/EnemyExplosion.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/GameBackground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MenuBackGround.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MouseClick.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Player.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/PlayerExplosion.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SadFace.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Seeker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SeekerSpawn.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Shoot.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Smiley.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SplashSceneBack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Wanderer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/WandererSpawn.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Input/ControlSceneAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Input/ExitSceneAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Input/GameMenuAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Input/OverSceneAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Input/PauseSceneAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Input/PlayerAction$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Input/PlayerAction$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Input/PlayerAction$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Input/PlayerAction$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Input/PlayerAction$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Input/PlayerAction$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Input/PlayerAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Input/ResumeRejectionAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/GameElement/Bullets.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/GameElement/Enemies.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/GameElement/GameInfoDisplay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/GameElement/GameReactionAnimation$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/GameElement/GameReactionAnimation$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/GameElement/GameReactionAnimation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/GameElement/MenuItemSetting$MenuBox.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/GameElement/MenuItemSetting$MenuItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/GameElement/MenuItemSetting$Title.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/GameElement/MenuItemSetting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/GameElement/MusicOutput$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/GameElement/MusicOutput.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/Scene/ByeScene$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/Scene/ByeScene.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/Scene/ControlScene.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/Scene/ExitScene$MouseAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/Scene/ExitScene.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/Scene/GameMenu$MouseAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/Scene/GameMenu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/Scene/GameOver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/Scene/GameScene$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/Scene/GameScene.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/Scene/PauseScene$MouseAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/Scene/PauseScene.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/Scene/ResumeRejection$MouseAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/Scene/ResumeRejection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/Scene/SplashScene$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Output/Scene/SplashScene.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Processing/Calculation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/alexyuan/Processing/RemoveGameObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/YuanGeometryWar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/YuanGeometryWar.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-console-l1-2-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-crt-multibyte-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-crt-private-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/awt.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/fontmanager.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/freetype.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/java.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/java.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/javajpeg.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/javaw.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/jawt.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/jimage.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/jli.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/jsound.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/keytool.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/lcms.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/mlib_image.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/msvcp140.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/net.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/nio.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/prefs.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/server/jvm.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/splashscreen.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/ucrtbase.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/vcruntime140.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/verify.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/bin/zip.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/conf/net.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/conf/security/java.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/conf/security/java.security" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/conf/security/policy/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/conf/security/policy/limited/default_US_export.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/conf/security/policy/limited/default_local.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/conf/security/policy/limited/exempt_local.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/conf/security/policy/unlimited/default_US_export.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/conf/security/policy/unlimited/default_local.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/conf/sound.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.base/COPYRIGHT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.base/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.base/aes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.base/asm.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.base/c-libutl.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.base/cldr.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.base/icu.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.base/public_suffix.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.base/unicode.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.base/zlib.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.datatransfer/COPYRIGHT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.datatransfer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.desktop/COPYRIGHT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.desktop/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.desktop/colorimaging.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.desktop/freetype.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.desktop/giflib.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.desktop/harfbuzz.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.desktop/jpeg.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.desktop/lcms.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.desktop/libpng.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.desktop/mesa3d.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.desktop/opengl.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.prefs/COPYRIGHT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.prefs/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.xml/COPYRIGHT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.xml/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.xml/bcel.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.xml/dom.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.xml/jcup.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.xml/xalan.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/java.xml/xerces.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/jdk.unsupported/COPYRIGHT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/legal/jdk.unsupported/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/lib/classlist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/lib/fontconfig.bfc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/lib/fontconfig.properties.src" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/lib/jawt.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/lib/jrt-fs.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/lib/jvm.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/lib/jvm.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/lib/modules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/lib/psfont.properties.ja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/lib/psfontj2d.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/lib/security/blacklisted.certs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/lib/security/cacerts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/lib/security/default.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/lib/security/public_suffix_list.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/lib/tzdb.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/lib/tzmappings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/image/release" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/null/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/null/inputFiles.lst" afterDir="false" />
-    </list>
+    <list default="true" id="a37b30bd-848a-4b3a-bdfa-522d1aa621f8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -309,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579571324705</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished code with commenting">
+      <created>1579574726927</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579574726927</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,10 +152,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579453157208" />
-    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1579573698880">
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1579574724675">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579573698880" />
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579574724675" />
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1579573913975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -385,10 +197,10 @@
     </state>
     <state x="313" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579572796191" />
     <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579468217902" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1579574490231">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1579574736895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579574490231" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579574736895" />
     <state x="455" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1579570964666">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
